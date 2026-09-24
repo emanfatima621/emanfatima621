@@ -155,6 +155,41 @@ I'm continuously building projects and improving my understanding of frontend, b
 ---
 
 ## 📚 Currently Learning
+<p align="center"> <img src="https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python"/> </p>
+
+<p align="center"> <img src="https://img.shields.io/badge/Flask-Learning-black?style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/MongoDB-Learning-green?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=for-the-badge&logo=mysql"/> </p>
+
+🎯 My Goal
+
+<p align="center"> <b>Learn → Build → Improve → Grow</b> </p>
+
+My goal is to become a professional Web Developer by developing strong programming fundamentals, building real-world projects, and continuously improving my frontend and backend development skills.
+
+I'm particularly interested in growing toward full-stack web development and creating useful, interactive web applications.
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emanfatima621&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanfatima621&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima621&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/emanfatima621"> <img src="https://img.shields.io/badge/GitHub-emanfatima621-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://www.linkedin.com/in/eman-fatima-77a395374"> <img src="https://img.shields.io/badge/LinkedIn-Eman%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="mailto:emanfatima81101@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<p align="center"> <i>Feel free to explore my repositories and follow my web development journey 🚀</i> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5"/>
